@@ -6,6 +6,13 @@ In Tom Phillips' [A Humument](http://www.tomphillips.co.uk/humument) (1973), he 
 
 This is a [project](https://github.com/NaNoGenMo/2017/issues/115) for [NaNoGenMo 2017](https://github.com/NaNoGenMo/2017/), the yearly challenge to write a program to generate a novel.
 
+## read it
+https://archive.org/details/a-human-docum-nt
+
+## watch the trailer
+Why did I make a trailer?
+[![preview image and link to youtube video](https://img.youtube.com/vi/yKq9d2IgPvw/0.jpg)](https://www.youtube.com/watch?v=yKq9d2IgPvw)
+
 ## code
 
 The code is a bit of a mess because I put it together in parts over several years. It probably won't run without some fiddling.

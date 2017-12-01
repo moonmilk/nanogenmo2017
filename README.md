@@ -23,6 +23,6 @@ The code is a bit of a mess because I put it together in parts over several year
 
 I downloaded all the scanned pages of the original book and submitted them to ABBYY's online OCR service, 6 pages per image. I've lost the code that I used to submit the images. The result was one XML document for each set of 6 pages. All the OCR XMLs are in `6ocrsFrom6ups`
 
-The processing sketch `inhumument.pde` (with its helper classes `CharInfo.pde`, `LineInfo.pde` and `PageInfo.pde`) reads in all the XML documents and the original image files, and generates output in the form of two-page spreads. It does two pages at a time so it can simulate the bleed-through of the expurgation markings from one face of each page to the other. 
+The processing sketch `inhumument.pde` (with its helper classes `CharInfo.pde`, `WordInfo.pde`, `LineInfo.pde` and `PageInfo.pde`) reads in all the XML documents and the original image files, and generates output in the form of two-page spreads. It does two pages at a time so it can simulate the bleed-through of the expurgation markings from one face of each page to the other. 
 
 I plan to do more ambitious projects with this pile of images and data in the future!

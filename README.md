@@ -14,6 +14,9 @@ Why did I make a trailer?
 
 [![preview image and link to youtube video](https://img.youtube.com/vi/yKq9d2IgPvw/0.jpg)](https://www.youtube.com/watch?v=yKq9d2IgPvw)
 
+## some progress notes
+over at https://github.com/NaNoGenMo/2017/issues/115
+
 ## code
 
 The code is a bit of a mess because I put it together in parts over several years. It probably won't run without some fiddling.
